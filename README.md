@@ -1,6 +1,6 @@
 # Welcome 👋
 
-📫 find me: rodrigo.santos@itbam.org.br
+📫 find me: rodrigo.santos@itbam.org.br/ http://lattes.cnpq.br/9027047281697451
 
 🔋 I’m currently doing an internship at Instituto Transire, working with Electrical Engeneering, Automation and Control Systems, and Mechanic's projects.
 
